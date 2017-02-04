@@ -1,0 +1,3 @@
+https://github.com/blha303/H365IRC-python
+
+I was commissioned by a UK internet radio station to create a new bot for their IRC channel to relay track information and provide audience interaction commands. I created the base bot with all features present in their existing Java bot from scratch in eight hours, and continued adding features as requested for six months after that. The radio station continued using the bot until the closure of their IRC channel in 2015. The bot is an enormous monstrosity that quickly grew too large to easily maintain, but I consider it an important part of my history as a mistake I shouldn't make again, i.e putting everything in a massively complex program in one file.
